@@ -1,0 +1,6 @@
+{
+  "name": "الساعة البونية",
+  "description": "تطبيق فلكي روحاني إسلامي لحساب كواكب الساعات ومنازل القمر وفواتح البروج واللطائف الإلهية والملائكية وفق أسرار شمس المعارف للبوني وابن عربي والغزالي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
